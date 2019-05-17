@@ -8,7 +8,7 @@ description: > # Multiline description..
 
 # Uncomment 'baseurl' and 'url' when deploy..
 # baseurl: ""
-url: "http://www.syahmifauzi.com"
+url: "https://www.syahmifauzi.com"
 baseurl: "/sfv2"
 local: "http://localhost:3000"
 
